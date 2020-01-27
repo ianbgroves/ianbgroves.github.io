@@ -1,5 +1,5 @@
 ---
-title: "Instructing MSc students"
+title: "Demonstrating"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019 - teaching
