@@ -1,7 +1,7 @@
 ---
 title: "Demonstrating"
 collection: teaching
-type: "Undergraduate course"
+type: "MSc course"
 permalink: /teaching/2019 - teaching
 venue: "University of Sheffield, MSc students"
 date: 2019-04-01
