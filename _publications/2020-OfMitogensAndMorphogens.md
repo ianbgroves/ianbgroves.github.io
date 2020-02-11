@@ -1,4 +1,4 @@
-
+---
 title: "Of Morphogen and Mitogens: Modelling Sonic Hedgehog in development"
 collection: publications
 permalink: /publication/2020--Shhreview
@@ -13,3 +13,4 @@ Here we review the current state of literature surrounding Sonic Hedgehog, an im
 #[Download paper here](TBC)
 
 #Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
