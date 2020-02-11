@@ -3,7 +3,7 @@ title: "Of Morphogen and Mitogens: Modelling Sonic Hedgehog in development"
 collection: publications
 permalink: /publication/2020--Shhreview
 excerpt: 'This review summarises advances in mathematical and computational model of Sonic Hedgehog, and highlights areas for future work.'
-date: 2020-XX-XX
+date: 2020-07-01
 venue: 'Accepted at Philosophical Transactions of Royal Society B'
 paperurl: 'TBC'
 citation: 'Groves, I et al. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
